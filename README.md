@@ -7,4 +7,4 @@ This repository is dedicated to a free Machine Learning Course I took using the 
 - Tensoflow for Production
 - Image Classification
 
-TThe notebooks contained in this repository are either practice-code or projects created as part of the course.
+The notebooks contained in this repository are either practice-code or projects created as part of the course.
